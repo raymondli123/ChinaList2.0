@@ -1,0 +1,11 @@
+v.qq.com##.module-image[style*="width:1100px;"]
+v.qq.com##.module-image[style*="width:1240px;"]
+v.qq.com##.nav_link[href^="http"]:not([href*=".qq."])
+v.qq.com##.site_bg_variety
+v.qq.com##.slider_item[href^="http"]:not([href*=".qq."])
+v.qq.com#%#if(void 0!==localStorage["txp-user-setting"]){var s=JSON.parse(localStorage["txp-user-setting"]);s.isUseFlash="0",localStorage["txp-user-setting"]=JSON.stringify(s)}
+@@||ratewrite.tmall.com^
+||vd.l.qq.com/proxyhttp$domain=v.qq.com
+||vi.l.qq.com/proxyhttp$domain=v.qq.com
+http://*.tc.qq.com/*.mp4*vkey=$domain=v.qq.com
+v.qq.com#%#var _setTimeout=window.setTimeout;window.setTimeout=function(a,b){var str=a.toString();if(b===14000&&str.indexOf("callback&&")){return _setTimeout(a,0)}return _setTimeout(a,b)}
